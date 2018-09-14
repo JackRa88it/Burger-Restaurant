@@ -1,7 +1,10 @@
 <li>
 	{{name}}
 
+	{{#if devoured}}
+	{{else}}
 	<button class="change-devoured" data-id="{{id}}">
 		EAT ME!
 	</button>
+	{{/if}}
 </li>

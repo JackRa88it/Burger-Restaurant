@@ -39,3 +39,7 @@ $(function() {
   });
 
 });
+
+
+// NOTES
+// add an array of audio files from bob's burgers and randomly play on when creating and eating burgers
