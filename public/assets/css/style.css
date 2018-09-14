@@ -1,17 +1,29 @@
+body {
+  background-image: url("../img/burger_pattern.jpg");
+  background-size: 800px;
+}
+
+.jumbotron {
+  margin: 20px 150px;
+  background-color: #ffeb94;
+}
+
+ul {
+  list-style: none;
+}
+
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
 }
 
 .label {
   font-weight: bold;
 }
 
-.create-update-form {
+.create-form {
   padding: 5px;
   margin: 5px;
-  background: aqua;
 }
 
 .form-group {
